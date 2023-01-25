@@ -36,5 +36,6 @@
 
 static const FpIdEntry id_table[] = {
     {.vid = 0x27c6, .pid = 0x5395},
+    {.vid = 0x27c6, .pid = 0x5385},
     {.vid = 0x27c6, .pid = 0x5335},
 };
